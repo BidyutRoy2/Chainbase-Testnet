@@ -32,7 +32,10 @@ cd Transaction-Bot
 npm install
 ```
 
-### 5. Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+### 5. Create `.env` File & Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+```
+PRIVATE_KEYS=["Enter Private Key & Save"]
+```
 Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"]`
 
 <p align="center">
@@ -44,6 +47,11 @@ Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567
 ```bash
 npm start
 ```
+
+### 6. Follow Next Step and Make Transaction
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
 
 ## 2. Contracts Deploy Bot
@@ -63,7 +71,10 @@ cd Contracts-Deploy-Bot
    ```bash
    npm install
    ```
-### 4. Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+### 4. Create `.env` File & Edit and Configurate .env File Then Save Your Private Key (CTRL+S)
+```
+PRIVATE_KEY=Enter Private Key & Save
+```
 Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef`
 
 ### 5. Run the script & Deploy Contracts
@@ -71,6 +82,10 @@ Example - `PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef123456789
    ```bash
    npm start
    ```
+
+### 6. Follow Next Step and Deploy Contracts 
+
+
 
 ## Follow the prompts to select the network, enter the token name, symbol, and supply, and deploy the contract.
 
