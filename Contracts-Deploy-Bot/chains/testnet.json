@@ -1,7 +1,7 @@
 [
   {
     "name": "Chainbase Network Testnet",
-    "rpcUrl": "https://chainbase-testnet-public.s.chainbase.com",
+    "rpcUrl": "https://testnet.s.chainbase.com",
     "chainId": "2233",
     "symbol": "ETH",
     "explorer": "https://testnet.explorer.chainbase.com"
