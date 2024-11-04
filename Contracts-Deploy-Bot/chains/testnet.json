@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Chainbase Network Testnet",
+    "rpcUrl": "https://chainbase-testnet-public.s.chainbase.com",
+    "chainId": "2233",
+    "symbol": "ETH",
+    "explorer": "https://testnet.explorer.chainbase.com"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
