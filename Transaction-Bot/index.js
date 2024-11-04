@@ -2,7 +2,7 @@ const { ethers } = require('ethers');
 const prompt = require('prompt-sync')();
 require('dotenv').config();
 
-const RPC_URL = 'https://chainbase-testnet-public.s.chainbase.com';
+const RPC_URL = 'https://testnet.s.chainbase.com';
 const CHAIN_ID = 2233;
 const provider = new ethers.JsonRpcProvider(RPC_URL, CHAIN_ID);
 
